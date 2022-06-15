@@ -1,6 +1,4 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Bike Sharing Assignment
 
 About the company:
 
